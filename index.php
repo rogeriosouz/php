@@ -1,6 +1,6 @@
 <?php
 
 
-	echo "Hellor wold";
+	echo "Ola Mundo!";
 
 ?>
